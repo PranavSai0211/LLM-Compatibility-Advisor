@@ -1,5 +1,5 @@
-## Direct Link for the app##
-# https://huggingface.co/spaces/qwerty45-uiop/LLM-Compatibilty-Advisor #
+## 🌐 Direct Link to the App
+[🔗 https://huggingface.co/spaces/qwerty45-uiop/LLM-Compatibilty-Advisor](https://huggingface.co/spaces/qwerty45-uiop/LLM-Compatibilty-Advisor)
 
 # 🧠 Enhanced LLM Compatibility Advisor
 
@@ -36,8 +36,6 @@ A powerful Streamlit application for recommending the best open-source large lan
 - `src/` – Directory containing Excel response data
 
 ---
-``
-
 
 ## ▶️ Running the App
 
@@ -48,7 +46,6 @@ streamlit run streamlit_app.py
 Make sure Excel files are placed in the `src/` folder.
 
 ---
-
 
 ## 📊 RAM-based Model Categories
 
@@ -61,6 +58,8 @@ Make sure Excel files are placed in the `src/` folder.
 | Good         | 9–16GB    | Advanced 13B-class models          |
 | High         | 17–32GB   | Large 30B–70B quantized models     |
 | Ultra High   | >32GB     | Full-size 70B+ models (FP16)       |
+
+---
 
 ## 📚 Credits
 
